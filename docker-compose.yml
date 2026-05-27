@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+
+  ai-document-qa-assistant:
+
+    build: .
+
+    ports:
+      - "8501:8501"
+
+    env_file:
+      - .env
