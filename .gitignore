@@ -7,3 +7,4 @@ data/uploaded_pdfs/
 # OS Files
 .DS_Store
 Thumbs.db
+.ipynb_checkpoints/
